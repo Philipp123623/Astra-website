@@ -68,7 +68,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h3>About Astra</h3>
             <p class="fst-italic">
-              Astra is a multipurpose Discord Bot with many features.
+              Astra is a multipurpose Discord Bot with a lot of features.
             </p>
             <ul>
               <li><i class="bi bi-check-circle"></i> Moderation and Utility.</li>
