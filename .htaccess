@@ -1,0 +1,11 @@
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule ^()$ index.php [NC,L]
+
+Rewritecond %{REQUEST_URI} !(^/?.*\..*$) [NC]
+
+RewriteRule (.*)$ $1.php [NC]
+
+ErrorDocument 404 /404.php
