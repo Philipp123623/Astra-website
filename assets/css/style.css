@@ -1500,7 +1500,9 @@ code {
   justify-content: flex-start;
 }
 
-
+.notes p {
+  font-size: 14;
+}
 
 .commandPrefix,
 .commandSyntax {
