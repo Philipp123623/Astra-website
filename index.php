@@ -115,109 +115,133 @@
       </div>
     </section><!-- End Counts Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="team" class="team section-bg">
-      <div class="container" data-aos="fade-up">
+      <!-- ======= Team Section ======= -->
+      <section id="team" class="team section-bg">
+          <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Team</h2>
-        </div>
-
-        <div class="row gy-4">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="icon-box">
-            <div class="icon">
-                <img src="assets/img/philu.png" height="100" width="100" viewBox="0 0 600 600">
+              <div class="section-title">
+                  <h2>Team</h2>
               </div>
-              <h4><a href="">Developer, Philu</a></h4>
-              <p>Programs Astra and provides new functions and updates for this bot.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-            <div class="icon">
-                <img src="assets/img/delfini.png" height="100" width="100" viewBox="0 0 600 600">
+
+              <div class="row">
+
+                  <div class="col-lg-6">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="30">
+                          <div class="png"><img src="assets/img/philu.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>Philu2005</h4>
+                              <span>Developer</span>
+                              <p>Programs Astra and provides new functions and updates for this bot.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/679706007219339376" class="discord"><i class="bx bxl-discord"></i></a>
+                                  <a href="https://github.com/Philipp123623" class="github"><i class="bx bxl-github"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4 mt-lg-0">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
+                          <div class="png"><img src="assets/img/delfini.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>Delfini</h4>
+                              <span>Developer</span>
+                              <p>Programs Astra and provides new functions and updates for this bot.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/798556932151181363"><i class="bx bxl-discord"></i> </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="png"><img src="assets/img/zchizu.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>zChizu</h4>
+                              <span>Developer</span>
+                              <p>Programs Astra and provides new functions and updates for this bot.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/575008776210350100"><i class="bx bxl-discord"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="png"><img src="assets/img/gario.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>Gario</h4>
+                              <span>Developer</span>
+                              <p>Programs Astra and provides new functions and updates for this bot.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/783000699663417355"><i class="bx bxl-discord"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="png"><img src="assets/img/tinte.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>Tinte</h4>
+                              <span>Marketing</span>
+                              <p>Brings Astra to new users by promoting our bot, that increases the activity of Astra.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/631176108372656148"><i class="bx bxl-discord"></i></a>
+                                  <a href="https://github.com/Tintenpatron" class="github"><i class="bx bxl-github"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="png"><img src="assets/img/gray.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>Graysignare</h4>
+                              <span>Moderation</span>
+                              <p>Moderates the support server and makes sure that everything is fine.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/705869851842838662"><i class="bx bxl-discord"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="png"><img src="assets/img/lilfishy.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>LilFishy</h4>
+                              <span>Moderation</span>
+                              <p>Moderates the support server and makes sure that everything is fine.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/772775253894103081"><i class="bx bxl-discord"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-6 mt-4">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                          <div class="png"><img src="assets/img/zenix.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="member-info">
+                              <h4>ARealZenix</h4>
+                              <span>Supporter</span>
+                              <p>Supports the server and helps users with problems and questions.</p>
+                              <div class="social">
+                                  <a href="https://discord.com/users/835782971235368960"><i class="bx bxl-discord"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
               </div>
-              <h4><a href="">Developer, Delfini</a></h4>
-              <p>Programs Astra and provides new functions and updates for this bot.</p>
-            </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box iconbox-pink">
-              <div class="icon">
-              <img src="assets/img/zchizu.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Developer, zChizu</a></h4>
-              <p>Programs Astra and provides new functions and updates for this bot.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon">
-              <img src="assets/img/gario.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Developer, Gario</a></h4>
-              <p>Programs Astra and provides new functions and updates for this bot.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon">
-              <img src="assets/img/tinte.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Marketing, Tinte</a></h4>
-              <p>Bring astra to new users by promoting our bot, that increases the activity of Astra.</p>
-            </div>
-          </div>
-          
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon">
-              <img src="assets/img/2craft.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Marketing, 2Craft</a></h4>
-              <p>Bring astra to new users by promoting our bot, that increases the activity of Astra.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon">
-              <img src="assets/img/gray.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Moderation, Graysignare</a></h4>
-              <p>Moderates the support server and makes sure that everything is fine.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon">
-              <img src="assets/img/lilfishy.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Moderation, LilFishy</a></h4>
-              <p>Moderates the support server and makes sure that everything is fine.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon">
-              <img src="assets/img/zenix.png" height="100" width="100" viewBox="0 0 600 600">
-              </div>
-              <h4><a href="">Supporter, ARealZenix</a></h4>
-              <p>Supports the server and helps users with problems and questions.</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
+      </section><!-- End Team Section -->
 
     <section id="features" class="features">
       <div class="container" data-aos="fade-up">
