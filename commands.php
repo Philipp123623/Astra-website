@@ -31,6 +31,9 @@
 </head>
 
 <body>
+<?php
+include_once './templates/header2.php';
+?>
 
 <section id="hero" class="d-flex align-items-center">
 

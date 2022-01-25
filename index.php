@@ -280,13 +280,6 @@
 
       </div>
     </section><!-- End Features Section -->
-
-    
-
-    
-
-    
-
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
