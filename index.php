@@ -126,12 +126,12 @@
               <div class="row">
 
                   <div class="col-lg-6">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="30">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
                           <div class="png"><img src="assets/img/philu.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>Philu2005</h4>
-                              <span>Developer</span>
-                              <p>Programs Astra and provides new functions and updates for this bot.</p>
+                              <span>Developer
+                                  <p>Programs Astra and provides new functions and updates for this bot.</p></span>
                               <div class="social">
                                   <a href="https://discord.com/users/679706007219339376" class="discord"><i class="bx bxl-discord"></i></a>
                                   <a href="https://github.com/Philipp123623" class="github"><i class="bx bxl-github"></i></a>
@@ -169,7 +169,7 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
                           <div class="png"><img src="assets/img/gario.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>Gario</h4>
@@ -183,7 +183,7 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="500">
                           <div class="png"><img src="assets/img/tinte.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>Tinte</h4>
@@ -198,7 +198,7 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="600">
                           <div class="png"><img src="assets/img/gray.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>Graysignare</h4>
@@ -212,7 +212,7 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="700">
                           <div class="png"><img src="assets/img/lilfishy.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>LilFishy</h4>
@@ -226,7 +226,7 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="800">
                           <div class="png"><img src="assets/img/zenix.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>ARealZenix</h4>
