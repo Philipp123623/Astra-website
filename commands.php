@@ -1265,6 +1265,7 @@ include_once './templates/header2.php';
                                 <h4>Usage: </h4>
                                 <pre><code>vote</code></pre>
                             </div>
+                        </div>
                     </div>
                     <div class='card'>
                         <input type='checkbox' id='uptime' class='accordion_input'>
@@ -1277,6 +1278,7 @@ include_once './templates/header2.php';
                             </div>
                         </div>
                     </div>
+
                     <div class='card'>
                         <input type='checkbox' id='privacy' class='accordion_input'>
                         <label for='privacy' class='accordion_label'>Privacy</label>
@@ -1343,7 +1345,7 @@ include_once './templates/header2.php';
                         </div>
                     </div>
                 </div>
-
+            </div>
         </div>
     </div>
 </div>
