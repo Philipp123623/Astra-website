@@ -308,8 +308,8 @@ include_once './templates/header2.php';
                         </div>
                     </div>
                     <div class='card'>
-                        <input type='checkbox' id='channelinfo' class='accordion_input'>
-                        <label for='channelinfo' class='accordion_label'>Channelinfo</label>
+                        <input type='checkbox' id='serverinfo' class='accordion_input'>
+                        <label for='serverinfo' class='accordion_label'>Serverinfo</label>
                         <div class='commandcontent'>
                             <p>Get infos about the Server</p>
                             <div class='flex commandusage'>
@@ -327,8 +327,8 @@ include_once './templates/header2.php';
                         </div>
                     </div>
                     <div class='card'>
-                        <input type='checkbox' id='channelinfo' class='accordion_input'>
-                        <label for='channelinfo' class='accordion_label'>Channelinfo</label>
+                        <input type='checkbox' id='servericon' class='accordion_input'>
+                        <label for='servericon' class='accordion_label'>Servericon</label>
                         <div class='commandcontent'>
                             <p>Displays the profile picture from the server.</p>
                             <div class='flex commandusage'>
@@ -1301,8 +1301,8 @@ include_once './templates/header2.php';
                 <label for='premium' class='accordion_label'>Premium</label>
                 <div class='commandcontent accordion'>
                     <div class='card'>
-                        <input type='checkbox' id='premium' class='accordion_input'>
-                        <label for='premium' class='accordion_label'>Premium</label>
+                        <input type='checkbox' id='premium2' class='accordion_input'>
+                        <label for='premium2' class='accordion_label'>Premium</label>
                         <div class='commandcontent'>
                             <p>Shows you how to get premium.</p>
                             <div class='flex commandusage'>
