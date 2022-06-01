@@ -170,7 +170,7 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="800">
+                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="600">
                           <div class="png"><img src="assets/img/issage.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
                               <h4>ISSAGE</h4>
