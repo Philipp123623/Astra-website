@@ -49,7 +49,7 @@ include_once './templates/header2.php';
 
         </div>
         <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-          <img src="assets/img/better_404.png" class="img-fluid animated" alt="" height="500" width="1250">
+          <img src="assets/img/better_404.png" class="img-fluid animated" alt="" height="700" width="1750">
         </div>
       </div>
     </div>
