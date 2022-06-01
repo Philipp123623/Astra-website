@@ -155,34 +155,6 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-                          <div class="png"><img src="assets/img/zchizu.png" height="100" width="100" class="img-fluid" alt=""></div>
-                          <div class="member-info">
-                              <h4>zChizu</h4>
-                              <span>Developer</span>
-                              <p>Programs Astra and provides new functions and updates for this bot.</p>
-                              <div class="social">
-                                  <a href="https://discord.com/users/575008776210350100"><i class="bx bxl-discord"></i></a>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-
-                  <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-                          <div class="png"><img src="assets/img/gario.png" height="100" width="100" class="img-fluid" alt=""></div>
-                          <div class="member-info">
-                              <h4>Gario</h4>
-                              <span>Developer</span>
-                              <p>Programs Astra and provides new functions and updates for this bot.</p>
-                              <div class="social">
-                                  <a href="https://discord.com/users/783000699663417355"><i class="bx bxl-discord"></i></a>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-
-                  <div class="col-lg-6 mt-4">
                       <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="500">
                           <div class="png"><img src="assets/img/tinte.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
@@ -198,42 +170,14 @@
                   </div>
 
                   <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="600">
-                          <div class="png"><img src="assets/img/gray.png" height="100" width="100" class="img-fluid" alt=""></div>
-                          <div class="member-info">
-                              <h4>Graysignare</h4>
-                              <span>Moderation</span>
-                              <p>Moderates the support server and makes sure that everything is fine.</p>
-                              <div class="social">
-                                  <a href="https://discord.com/users/705869851842838662"><i class="bx bxl-discord"></i></a>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-
-                  <div class="col-lg-6 mt-4">
-                      <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="700">
-                          <div class="png"><img src="assets/img/lilfishy.png" height="100" width="100" class="img-fluid" alt=""></div>
-                          <div class="member-info">
-                              <h4>LilFishy</h4>
-                              <span>Moderation</span>
-                              <p>Moderates the support server and makes sure that everything is fine.</p>
-                              <div class="social">
-                                  <a href="https://discord.com/users/772775253894103081"><i class="bx bxl-discord"></i></a>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-
-                  <div class="col-lg-6 mt-4">
                       <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="800">
-                          <div class="png"><img src="assets/img/zenix.png" height="100" width="100" class="img-fluid" alt=""></div>
+                          <div class="png"><img src="assets/img/issage.png" height="100" width="100" class="img-fluid" alt=""></div>
                           <div class="member-info">
-                              <h4>ARealZenix</h4>
-                              <span>Supporter</span>
-                              <p>Supports the server and helps users with problems and questions.</p>
+                              <h4>ISSAGE</h4>
+                              <span>Designer</span>
+                              <p>Professional Designer</p>
                               <div class="social">
-                                  <a href="https://discord.com/users/835782971235368960"><i class="bx bxl-discord"></i></a>
+                                  <a href="https://discord.com/users/751761828497063938"><i class="bx bxl-discord"></i></a>
                               </div>
                           </div>
                       </div>
