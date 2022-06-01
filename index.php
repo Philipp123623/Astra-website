@@ -175,7 +175,8 @@
                           <div class="member-info">
                               <h4>ISSAGE</h4>
                               <span>Designer</span>
-                              <p>Professional Designer</p>
+                              <p>Professional Designer for our Astra bot</p>
+                              <p>Best Designer we ever had lol</p>
                               <div class="social">
                                   <a href="https://discord.com/users/751761828497063938"><i class="bx bxl-discord"></i></a>
                               </div>
