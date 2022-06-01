@@ -66,7 +66,7 @@
             <img src="assets/img/about.png" height="400" width="400" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>About Astra tetstdsskghdfgulsfhglidfh</h3>
+            <h3>About Astra</h3>
             <p class="fst-italic">
               Astra is a multipurpose Discord Bot with a lot of features.
             </p>
