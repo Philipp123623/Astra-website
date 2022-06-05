@@ -168,7 +168,6 @@
                           </div>
                       </div>
                   </div>
-
                   <div class="col-lg-6 mt-4">
                       <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="600">
                           <div class="png"><img src="assets/img/issage.png" height="150" width="150" class="img-fluid" alt=""></div>
@@ -197,31 +196,32 @@
         <div class="row">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column align-items-lg-center">
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-receipt"></i>
+              <i class="bx bx-info-circle"></i>
               <h4>Information</h4>
               <p>We have many information commands, including serverinfo, userinfo, botinfo, roleinfo</p>
             </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-cube-alt"></i>
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
+              <i class="bx bx-upvote"></i>
               <h4>Levelsystem</h4>
               <p>We have a big Levelsystem, including own levelcard, and topusers command</p>
             </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
+              <i class="bx bx-globe-alt"></i>
+              <h4>Global Chat</h4>
+              <p>We have a nice Globalchat, including Team members, Ban System and Replys</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-images"></i>
               <h4>Fun</h4>
               <p>We have many fun commands, including picture manipulations, memes and games</p>
             </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-shield"></i>
               <h4>Moderation</h4>
               <p>We have many moderation commands, including ban, unban, kick and much more</p>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2 " data-aos="zoom-in" data-aos-delay="100">
-            <img src="assets/img/features.png" height="800" width="800" class="img-fluid" alt="">
-          </div>
         </div>
-
       </div>
     </section><!-- End Features Section -->
     <!-- ======= Frequently Asked Questions Section ======= -->
