@@ -17,7 +17,7 @@ Download or fork the repo
 
 `git clone https://github.com/Philipp123623/Astra-website`
 
-open index.html with any code editor and edit the name or logo and then have fun.
+open index.php with any code editor and edit the name or logo and then have fun.
 
 ## Built With: 
 
