@@ -3,12 +3,12 @@ Stunning website with good UI design for the new Discord bots, built with Bootst
 
 ## main page:
 
-![Screenshot1](https://prnt.sc/sI5gMPZoI0Da)
+![Screenshot1](https://cdn.discordapp.com/attachments/983111043842719814/983328525442494484/unknown.png)
 
-![Screenshot2](https://prnt.sc/CS8Fn0PMJdtX)
+![Screenshot2](https://cdn.discordapp.com/attachments/983111043842719814/983329534139056178/unknown.png)
 
 ## command page:
-![Screenshot4](https://prnt.sc/-qkMkEgan9tV)
+![Screenshot3](https://cdn.discordapp.com/attachments/983111043842719814/983329265145757736/unknown.png)
 
 and more pages I couldn't Screenshot them
 
