@@ -1761,30 +1761,3 @@ body {
   color: #fff;
   text-decoration: none;
 }
-
-
-/*--------------------------------------------------------------
-# Credits
---------------------------------------------------------------*/
-.clients {
-  background: rgba(255, 255, 255, 0.1);
-}
-
-.clients .clients-slider {
-  background-color: rgba(255, 255, 255, 0.1);
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border-radius: 7px;
-}
-.clients .clients-slider .swiper-pagination {
-  margin-top: 20px;
-  position: relative;
-}
-.clients .clients-slider .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  background-color: rgba(255, 255, 255, 0.1);
-  opacity: 1;
-}
-.clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #1D2228;
-}
