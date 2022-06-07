@@ -224,29 +224,6 @@
         </div>
       </div>
     </section><!-- End Features Section -->
-      <!-- ======= Credits Section ======= -->
-      <section id="credits" class="credits">
-          <div class="container" data-aos="fade-up">
-              <div class="section-title">
-                  <h2>Credits</h2>
-              </div>
-              <div class="credits-slider swiper">
-                  <div class="clients-slider swiper">
-                      <div class="swiper-wrapper align-items-center">
-                          <div class="swiper-slide"><a href="https://prohosting24.de/a/tinte" rel="noopener" target="_blank"><img src="assets/img/clients/ph24.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Prohosting24" alt=""></a></div>
-                          <div class="swiper-slide"><a href="https://nodejs.org" rel="noopener" target="_blank"><img src="assets/img/clients/nodejs.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="NodeJS" alt=""></a></div>
-                          <div class="swiper-slide"><a href="https://github.com" rel="noopener" target="_blank"><img src="assets/img/clients/github.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Github" alt=""></a></div>
-                          <div class="swiper-slide"><a href="https://discord.com" rel="noopener" target="_blank"><img src="assets/img/clients/discord.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord" alt=""></a></div>
-                          <div class="swiper-slide"><a href="https://discord.js.org" rel="noopener" target="_blank"><img src="assets/img/clients/discordjs.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord.js" alt=""></a></div>
-                          <div class="swiper-slide"><a href="https://jetbrains.com/webstorm" rel="noopener" target="_blank"><img src="assets/img/clients/webstorm.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Jetbrains Webstorm" alt=""></a></div>
-                          <div class="swiper-slide"><a href="https://mongodb.com" rel="noopener" target="_blank"><img src="assets/img/clients/mongodb.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="MongoDB" alt=""></a></div>
-                      </div>
-                      <div class="swiper-pagination"></div>
-                  </div>
-              </div>
-          </div>
-      </section>
-      <!-- End Clients Section -->
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
@@ -306,6 +283,29 @@
       </div>
     </section>
     <!-- End Frequently Asked Questions Section -->
+    <!-- ======= Credits Section ======= -->
+    <section id="credits" class="credits">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+            <h2>Credits</h2>
+        </div>
+        <div class="credits-slider swiper">
+            <div class="clients-slider swiper">
+                <div class="swiper-wrapper align-items-center">
+                    <div class="swiper-slide"><a href="https://prohosting24.de/a/tinte" rel="noopener" target="_blank"><img src="assets/img/clients/ph24.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Prohosting24" alt=""></a></div>
+                    <div class="swiper-slide"><a href="https://nodejs.org" rel="noopener" target="_blank"><img src="assets/img/clients/nodejs.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="NodeJS" alt=""></a></div>
+                    <div class="swiper-slide"><a href="https://github.com" rel="noopener" target="_blank"><img src="assets/img/clients/github.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Github" alt=""></a></div>
+                    <div class="swiper-slide"><a href="https://discord.com" rel="noopener" target="_blank"><img src="assets/img/clients/discord.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord" alt=""></a></div>
+                    <div class="swiper-slide"><a href="https://discord.js.org" rel="noopener" target="_blank"><img src="assets/img/clients/discordjs.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord.js" alt=""></a></div>
+                    <div class="swiper-slide"><a href="https://jetbrains.com/webstorm" rel="noopener" target="_blank"><img src="assets/img/clients/webstorm.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Jetbrains Webstorm" alt=""></a></div>
+                    <div class="swiper-slide"><a href="https://mongodb.com" rel="noopener" target="_blank"><img src="assets/img/clients/mongodb.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="MongoDB" alt=""></a></div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Clients Section -->
 
   </main><!-- End #main -->
 
