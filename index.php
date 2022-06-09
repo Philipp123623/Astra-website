@@ -62,9 +62,6 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
-            <img src="assets/img/Profile_2.png" height="250" width="250" class="img-fluid" alt="">
-          </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h3>About Astra</h3>
             <p class="fst-italic">
@@ -78,6 +75,9 @@
               <li><i class="bi bi-check-circle"></i> Levelsystem, Informations and much more.</li>
             </ul>
             <a href="#" class="read-more">Read More <i class="bi bi-long-arrow-right"></i></a>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
+              <img src="assets/img/Profile_2.png" height="250" width="250" class="img-fluid" alt="">
           </div>
         </div>
 
