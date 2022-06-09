@@ -77,7 +77,7 @@
             <a href="#" class="read-more">Read More <i class="bi bi-long-arrow-right"></i></a>
           </div>
           <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
-              <img src="assets/img/Profile_2.png" height="250" width="250" class="img-fluid" alt="">
+            <img src="assets/img/Profile_2.png" height="250" width="250" class="img-fluid" alt="">
           </div>
         </div>
 
