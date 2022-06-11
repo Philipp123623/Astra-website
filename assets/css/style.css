@@ -231,7 +231,6 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   background-color: #fff;
   visibility: hidden;
-  width: 0px;
   transition: all 0.3s ease-in-out 0s;
 }
 
