@@ -12,6 +12,7 @@
     <meta property="og:description"
           content="Astra manages your server - you can handle your discord server with Astra: Administration, level system, temp channels, welcome message, and much more." />
     <meta name="theme-color" content="#5846f9">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" rel="stylesheet">
     <link href="assets/img/favicon_transparent.png" rel="icon">
     <link href="assets/img/favicon_transparent.png" rel="favicon_transparent">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -22,10 +23,14 @@
     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </head>
 <body>
+
 <?php
-include_once './templates/header.php';
+include_once 'templates/header.php';
 ?>
 <section id="hero" class="d-flex align-items-center">
     <div class="container-fluid" data-aos="fade-up">
@@ -103,10 +108,8 @@ include_once './templates/header.php';
                         <div class="png"><img src="assets/img/philu.png" height="100" width="100" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>Philu2005</h4>
-                            <span>
-                              Developer
+                            <span>Developer</span>
                               <p>Programs Astra and provides new functions and updates for this bot.</p>
-                           </span>
                             <div class="social">
                                 <a href="https://discord.com/users/679706007219339376" class="discord"><i class="bx bxl-discord"></i></a>
                                 <a href="https://github.com/Philipp123623" class="github"><i class="bx bxl-github"></i></a>
@@ -205,7 +208,7 @@ include_once './templates/header.php';
             </div>
             <div class="faq-list">
                 <ul>
-                    <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
+                    <li  data-aos="fade-up" data-aos-delay="100">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">How can I disable the levelsystem? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                             <p>
@@ -298,7 +301,6 @@ include_once './templates/header.php';
                         <b>Astra</b>
                     <p style="font-size: 15px">
                         Astra manages your server - you can handle your discord server with Astra
-                    </p>
                     </p>
                 </div>
             </div>
