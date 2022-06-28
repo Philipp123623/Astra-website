@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
     <title>Astra | Discord bot</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
@@ -12,50 +13,62 @@
     <meta property="og:description"
           content="Astra manages your server - you can handle your discord server with Astra: Administration, level system, temp channels, welcome message, and much more." />
     <meta name="theme-color" content="#5846f9">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" rel="stylesheet">
+
     <link href="assets/img/favicon_transparent.png" rel="icon">
-    <link href="assets/img/favicon_transparent.png" rel="favicon_transparent">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
     <link href="assets/css/style.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 </head>
+
 <body>
 
 <?php
-include_once 'templates/header.php';
+include_once './templates/header.php';
 ?>
+
 <section id="hero" class="d-flex align-items-center">
+
     <div class="container-fluid" data-aos="fade-up">
         <div class="row justify-content-center">
             <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
                 <h1>Astra</h1>
-                <h2>Astra manages your server - you can handle your discord server with Astra: Administration, level system, temp channels, welcome message, and much more.</h2>
+                <h2>Astra manages your server - you can handle your discord server with Astra: Administration, level system, temp channels, welcome message, and much more.
+                </h2>
                 <div><a href="invite.php" class="btn-get-started scrollto">Invite</a>
-                    <a href="support.php" class="btn-get-started scrollto">Support server</a>
-                </div>
+                    <a href="support.php" class="btn-get-started scrollto">Support server</a></div>
+
             </div>
             <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
                 <img src="assets/img/favicon_transparent.png" class="img-fluid animated" alt="">
             </div>
         </div>
     </div>
+
 </section>
+
 <main id="main">
+
     <section id="about" class="about">
         <div class="container">
+
             <div class="row">
+                <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
+                    <img src="assets/img/Profile_2.png" height="250" width="250" class="img-fluid" alt="">
+                </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
                     <h3>About Astra</h3>
                     <p class="fst-italic">
-                        Astra is a multipurpose Discord Bot with a lot of features.
+                        Astra is a multipurpose Discord Bot with many features.
                     </p>
                     <ul>
                         <li><i class="bi bi-check-circle"></i> Moderation and Utility.</li>
@@ -66,37 +79,43 @@ include_once 'templates/header.php';
                     </ul>
                     <a href="#" class="read-more">Read More <i class="bi bi-long-arrow-right"></i></a>
                 </div>
-                <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
-                    <img src="assets/img/Profile_2.png" height="250" width="250" class="img-fluid" alt="">
-                </div>
             </div>
+
         </div>
     </section>
+
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
         <div class="container">
+
             <div class="row counters">
+
                 <div class="col-lg-3 col-6 text-center">
                     <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="1" class="purecounter"></span>
                     <p>servers</p>
                 </div>
+
                 <div class="col-lg-3 col-6 text-center">
-                    <span data-purecounter-start="0" data-purecounter-end="100000" data-purecounter-duration="1" class="purecounter"></span>
+                    <span data-purecounter-start="0" data-purecounter-end="250000" data-purecounter-duration="1" class="purecounter"></span>
                     <p>users</p>
                 </div>
+
                 <div class="col-lg-3 col-6 text-center">
                     <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="1" class="purecounter"></span>
                     <p>commands</p>
                 </div>
+
                 <div class="col-lg-3 col-6 text-center">
                     <span data-purecounter-start="0" data-purecounter-end="5000" data-purecounter-duration="1" class="purecounter"></span>
                     <p>channels</p>
                 </div>
+
             </div>
+
         </div>
-    </section>
-    <!-- End Counts Section -->
-    <!-- ======= Team Section ======= -->
+    </section><!-- End Counts Section -->
+
+    <!-- ======= Services Section ======= -->
     <section id="team" class="team section-bg">
         <div class="container" data-aos="fade-up">
             <div class="section-title">
@@ -109,7 +128,7 @@ include_once 'templates/header.php';
                         <div class="member-info">
                             <h4>Philu2005</h4>
                             <span>Developer</span>
-                              <p>Programs Astra and provides new functions and updates for this bot.</p>
+                            <p>Programs Astra and provides new functions and updates for this bot.</p>
                             <div class="social">
                                 <a href="https://discord.com/users/679706007219339376" class="discord"><i class="bx bxl-discord"></i></a>
                                 <a href="https://github.com/Philipp123623" class="github"><i class="bx bxl-github"></i></a>
@@ -160,7 +179,8 @@ include_once 'templates/header.php';
             </div>
         </div>
     </section>
-    <!-- End Team Section -->
+
+    <!-- ======= Features Section ======= -->
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="section-title">
@@ -199,16 +219,24 @@ include_once 'templates/header.php';
                 </div>
             </div>
     </section>
-    <!-- End Features Section -->
+
+
+
+
+
+
+
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
         <div class="container" data-aos="fade-up">
+
             <div class="section-title">
                 <h2>Frequently Asked Questions</h2>
             </div>
+
             <div class="faq-list">
                 <ul>
-                    <li  data-aos="fade-up" data-aos-delay="100">
+                    <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">How can I disable the levelsystem? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                             <p>
@@ -216,6 +244,7 @@ include_once 'templates/header.php';
                             </p>
                         </div>
                     </li>
+
                     <li data-aos="fade-up" data-aos-delay="200">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">How can I report a bug? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
@@ -224,6 +253,7 @@ include_once 'templates/header.php';
                             </p>
                         </div>
                     </li>
+
                     <li data-aos="fade-up" data-aos-delay="300">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">How can I get Premium? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
@@ -232,6 +262,7 @@ include_once 'templates/header.php';
                             </p>
                         </div>
                     </li>
+
                     <li data-aos="fade-up" data-aos-delay="400">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">How can I change the prefix? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
@@ -240,6 +271,7 @@ include_once 'templates/header.php';
                             </p>
                         </div>
                     </li>
+
                     <li data-aos="fade-up" data-aos-delay="500">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">What can I do if Astra is offline? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
@@ -248,18 +280,24 @@ include_once 'templates/header.php';
                             </p>
                         </div>
                     </li>
+
                 </ul>
             </div>
+
         </div>
-    </section>
-    <!-- End Frequently Asked Questions Section -->
-</main>
-<!-- End #main -->
+    </section><!-- End Frequently Asked Questions Section -->
+
+
+
+</main><!-- End #main -->
+
 <!-- ======= Footer ======= -->
 <footer id="footer">
+
     <div class="footer-top">
         <div class="container">
             <div class="row">
+
                 <div class="col-lg-3 col-md-6 footer-contact">
                     <div class="credits">
                         <h3>Astra</h3>
@@ -270,6 +308,7 @@ include_once 'templates/header.php';
                         </p>
                     </div>
                 </div>
+
                 <div class="col-lg-2 col-md-6 offset-md-4 footer-links" style="/*! float: left */">
                     <h4>Useful Links</h4>
                     <ul>
@@ -290,10 +329,13 @@ include_once 'templates/header.php';
                         <li><i class="bx bx-chevron-right"></i> <a href="terms">Terms of use</a></li>
                     </ul>
                 </div>
+
             </div>
         </div>
     </div>
+
     <div class="container">
+
         <div class="copyright-wrap d-md-flex py-4">
             <div class="me-md-auto text-center text-md-start">
                 <div class="copyright">
@@ -305,14 +347,16 @@ include_once 'templates/header.php';
                 </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
-                <a href="https://discord.com/oauth2/authorize?client_id=811733599509544962&permissions=1899359446&scope=bot%20applications.commands" class="discord"><i class="bx bxl-discord"></i></a>
+                <a href="https://discord.com/oauth2/authorize?client_id=811733599509544962&permissions=8&scope=bot" class="discord"><i class="bx bxl-discord"></i></a>
             </div>
         </div>
+
     </div>
-</footer>
-<!-- End Footer -->
+</footer><!-- End Footer -->
+
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 <div id="preloader"></div>
+
 <!-- Vendor JS Files -->
 <script src="assets/vendor/aos/aos.js"></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -321,9 +365,10 @@ include_once 'templates/header.php';
 <script src="assets/vendor/php-email-form/validate.js"></script>
 <script src="assets/vendor/purecounter/purecounter.js"></script>
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>
-<!-- Main JS File -->
-<script src="assets/js/main.js"></script>
+
 </body>
+
 </html>
