@@ -42,7 +42,7 @@ include_once './templates/header2.php';
       <div class="row justify-content-center">
         <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Page Not Found</h1>
-          <h2>Sorry, the page you were looking for does not exist.
+          <h2>Sorry, the Page you were looking for does not exist.
 </h2>
           <div><a href="invite.php" class="btn-get-started scrollto">Invite</a>
           <a href="support.php" class="btn-get-started scrollto">Support server</a></div>
