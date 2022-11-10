@@ -68,12 +68,12 @@
     <b>§3</b> - Any hacking and / or DDOS attacks are prohibited, illegal (computer sabotage, § 303 StGB) and will be prosecuted<br><br>
     <b>§4</b> - False claims about us and our bot can be seen as defamation (§ 186 StGB) and can lead to criminal prosecution<br><br>
     <b>§5</b> - Our global chat is not meant to offend other users / servers<br><br>
-    <b>§6</b> - We assume no liability for potentially illegal content that is sent by users via our bot (e.g. our Globalchat §5). Should we find illegal content according to German law, we will save it externally, delete it and take legal action<br><br><br>
-    Guidelines for our Astra support server:<br><br>
+    <b>§6</b> - We accept no liability for potentially illegal content sent by users via our bot (e.g. our global chat §5).<br> ⠀ ⠀ If we find illegal content according to German law, we will store it externally, delete it and take legal action<br><br>
+    <b>Guidelines for our Astra support server:</b><br><br>
     <b>§7</b> - We all want to be friendly with each other - so keep a respectful treatment<br><br>
     <b>§8</b> - Nobody wants to see insults, threats and pornographic content - so leave this out of your messages<br><br>
-    <b>§9</b> - Nobody wants a cluttered channel - so stop spamming messages<br><br>
-    <b>§10</b> - Furthermore, the <a href="https://discordapp.com/guidelines"> Discord Community Guidelines </a>, the <a href="https://discordapp.com/terms"> Discord Terms-of- service </a> and German law must be observed at all time<br><br><br><br>
+    <b>§9</b> - Nobody wants a crowded channel - so please stop spamming messages into the channels!<br><br>
+    <b>§10</b> - Furthermore, the <a href="https://discordapp.com/guidelines"> Discord Community Guidelines </a>, the <a href="https://discordapp.com/terms"> Discord Terms-of-service</a>  and German law must be observed at all time<br><br><br><br>
     
     <b>In case of non-compliance with our policies, we are ready at any time to exclude individual users or servers from our bot and/or support server.</b>            
          </p>
@@ -129,7 +129,6 @@
               <b>Astra</b>
             <p style="font-size: 15px">
               Astra manages your server - you can handle your discord server with Astra
-            </p>
             </p>
           </div>
         </div>
